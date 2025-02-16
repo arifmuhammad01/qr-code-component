@@ -37,4 +37,4 @@ I learned  positioning of html elements by css and  tried to get better understa
 
 - Arif Muhammad
 - Frontend Mentor - [https://www.frontendmentor.io/profile/arifmuhammad01]
-- Facebook-[https://www.facebook.com/arifice]
+- Facebook-[https://www.facebook.com/ice.arif]
